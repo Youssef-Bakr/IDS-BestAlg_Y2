@@ -1,7 +1,7 @@
 # IDS-BestAlg
 Build IDS based on 7 different algorithms and compare thme to reach the best of them.
 
-Abstract
+### Abstract
 An intrusion detection system (IDS) is a device or software application that monitors a
 network for malicious activity or policy violations. It scans a network or a system for a
 harmful activity or security breaching. IDS protects networks (Network-based intrusion
@@ -17,9 +17,9 @@ learning solutions for detecting attacks based on seven different algorithms
 - Gradient Boosting
 - Artificial Neural Network
 
-**imbalanced-learn**  are used as a fixer for unbalanced problem between normal(benign) and attack(bad) on our data.Our approach was tested on a
-benchmark data set, KDD99, and the experimental outcomes show that models based
-on [**Random Forest**](https://en.wikipedia.org/wiki/Random_forest target="_blank") achieve the best accuracy for training and testing in both side (accuracy, and time consuming)
+[**imbalanced-learn**]('https://imbalanced-learn.org/stable/index.html')  are used as a fixer for unbalanced problem between normal(benign) and attack(bad) on our data.Our approach was tested on a
+benchmark data set, [**KDD99**]('http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html'), and the experimental outcomes show that models based
+on [**Random Forest**]('https://en.wikipedia.org/wiki/Random_forest' target="_blank") achieve the best accuracy for training and testing in both side (accuracy, and time consuming)
 
 Looking at visualize of training accuracy
 
