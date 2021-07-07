@@ -2,7 +2,7 @@
 Build IDS based on 7 different algorithms and compare thme to reach the best of them.
 
 ### Abstract
-An intrusion detection system (IDS) is a device or software application that monitors a
+An intrusion detection system ([IDS](https://en.wikipedia.org/wiki/Intrusion_detection_system)) is a device or software application that monitors a
 network for malicious activity or policy violations. It scans a network or a system for a
 harmful activity or security breaching. IDS protects networks (Network-based intrusion
 detection system NIDS) or hosts (Host-based intrusion detection system HIDS),
