@@ -16,18 +16,24 @@ learning solutions for detecting attacks based on seven different algorithms
 - Logistic Regression
 - Gradient Boosting
 - Artificial Neural Network
-imbalanced-learn  are used as fixer for unbalanced on our data.Our approach was tested on a
+
+**imbalanced-learn**  are used as a fixer for unbalanced problem between normal(benign) and attack(bad) on our data.Our approach was tested on a
 benchmark data set, KDD99, and the experimental outcomes show that models based
 on Random Forest achieve the best accuracy for training and testing in both side (accuracy, and time consuming)
 
-Looking at training accuracy
-![training_accuracy_figure](https://user-images.githubusercontent.com/40705538/124690448-81644100-deda-11eb-8500-f06065f5cbb5.png)
+Looking at visualize of training accuracy
 
-Looking at testing accuracy
-![testing_accuracy_figure](https://user-images.githubusercontent.com/40705538/124689436-d2733580-ded8-11eb-91cc-e38ae9087e3a.png)
+![training_accuracy_figure](https://user-images.githubusercontent.com/40705538/124690661-d30ccb80-deda-11eb-9e66-25944ed94e21.png)
 
-Looking at training time
-![training_time_figure](https://user-images.githubusercontent.com/40705538/124689470-ddc66100-ded8-11eb-8731-353dac5d74f8.png)
+Looking at visualize of testing accuracy
 
-Looking at testing time
-![testing_time_figure](https://user-images.githubusercontent.com/40705538/124689486-e3bc4200-ded8-11eb-9d0a-ba78f3af57a7.png)
+![testing_accuracy_figure](https://user-images.githubusercontent.com/40705538/124690732-e750c880-deda-11eb-8be0-84417283b770.png)
+
+Looking at visualize of training time
+
+![training_time_figure](https://user-images.githubusercontent.com/40705538/124690747-eddf4000-deda-11eb-894e-d0ba330a5f4c.png)
+
+
+Looking at visualize of testing time
+
+![testing_time_figure](https://user-images.githubusercontent.com/40705538/124690768-f3d52100-deda-11eb-9723-548e798f0202.png)
