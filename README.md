@@ -23,17 +23,16 @@ on Random Forest achieve the best accuracy for training and testing in both side
 
 Looking at visualize of training accuracy
 
-![training_accuracy_figure](https://user-images.githubusercontent.com/40705538/124690661-d30ccb80-deda-11eb-9e66-25944ed94e21.png)
+![training_accuracy_figure](https://user-images.githubusercontent.com/40705538/124691786-b83b5680-dedc-11eb-8872-21a5b20af866.png)
 
 Looking at visualize of testing accuracy
 
-![testing_accuracy_figure](https://user-images.githubusercontent.com/40705538/124690732-e750c880-deda-11eb-8be0-84417283b770.png)
+![testing_accuracy_figure](https://user-images.githubusercontent.com/40705538/124691804-c1c4be80-dedc-11eb-9257-317cd4dbf028.png)
 
 Looking at visualize of training time
 
-![training_time_figure](https://user-images.githubusercontent.com/40705538/124690747-eddf4000-deda-11eb-894e-d0ba330a5f4c.png)
-
+![training_time_figure](https://user-images.githubusercontent.com/40705538/124691822-c7ba9f80-dedc-11eb-8c12-42c655b49bd0.png)
 
 Looking at visualize of testing time
 
-![testing_time_figure](https://user-images.githubusercontent.com/40705538/124690768-f3d52100-deda-11eb-9723-548e798f0202.png)
+![testing_time_figure](https://user-images.githubusercontent.com/40705538/124691837-cf7a4400-dedc-11eb-9dcc-258afbcdf9ce.png)
