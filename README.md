@@ -1,10 +1,14 @@
 # IDS-BestAlg
 Build IDS based on 7 different algorithms and compare thme to reach the best of them.
 
-![training_accuracy_figure](https://user-images.githubusercontent.com/40705538/124689026-1154bb80-ded8-11eb-8152-8a2547c39e9e.png)
+Looking at training accuracy
+![training_accuracy_figure](https://user-images.githubusercontent.com/40705538/124689451-d737e980-ded8-11eb-9e9a-0aa848426320.png)
 
-![testing_accuracy_figure](https://user-images.githubusercontent.com/40705538/124689032-131e7f00-ded8-11eb-88cd-cae519cd44c5.png)
+Looking at testing accuracy
+![testing_accuracy_figure](https://user-images.githubusercontent.com/40705538/124689436-d2733580-ded8-11eb-91cc-e38ae9087e3a.png)
 
-![training_time_figure](https://user-images.githubusercontent.com/40705538/124689030-1285e880-ded8-11eb-9c3e-1b3ea24adb21.png)
+Looking at training time
+![training_time_figure](https://user-images.githubusercontent.com/40705538/124689470-ddc66100-ded8-11eb-8731-353dac5d74f8.png)
 
-![testing_time_figure](https://user-images.githubusercontent.com/40705538/124689022-0ef26180-ded8-11eb-9c94-2eeb78daebef.png)
+Looking at testing time
+![testing_time_figure](https://user-images.githubusercontent.com/40705538/124689486-e3bc4200-ded8-11eb-9d0a-ba78f3af57a7.png)
