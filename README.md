@@ -1,5 +1,5 @@
 # IDS-BestAlg
-Build IDS based on 7 different algorithms and compare thme to reach the best of them.
+Build IDS based on 7 different algorithms and compare them to find the best one.
 
 ### Abstract
 An intrusion detection system ([IDS](https://en.wikipedia.org/wiki/Intrusion_detection_system)) is a device or software application that monitors a
