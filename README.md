@@ -1,5 +1,7 @@
-# IDS-BestAlg
+# IDS-BestAlg_Y2
 Build an Intrusion Detection System (IDS) based on seven different algorithms and compare them to find the best one.
+As an activity in the (Secure Intelligence) (Course by Ericsson)
+Machine Learning security and different attacks and security models in machine learning with hands-on practice and real-world applications.
 
 ### Abstract
 An Intrusion Detection System (IDS) is a device or software application that monitors a network for malicious activity or policy violations. It scans a network or system for harmful activity or security breaches. IDS can be network-based (NIDS) or host-based (HIDS), and they work by looking for signatures of known attacks or deviations from normal activity. In this project, we implemented machine learning and deep learning solutions for detecting attacks using the following seven algorithms:
